@@ -1,0 +1,60 @@
+{
+  "_buildCommand2" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "8512dc9861670333acc9535db7be70a1480ffb25547849698bd608870c56abed"
+    }
+  ],
+  "containerPath" : "/Users/g/Desktop/github demo/github demo.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "macosx",
+      "sdk" : "macosx13.0",
+      "sdkVariant" : "macos",
+      "supportedArchitectures" : [
+        "arm64e",
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/g/Desktop/EECS 183 Project/Final Project Elevators/EECS 183 Final Project: Elevators/DerivedData/github_demo-hamolpqqtcgrkdfuzyvqstlfqrtf/Index.noindex/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/g/Desktop/EECS 183 Project/Final Project Elevators/EECS 183 Final Project: Elevators/DerivedData/github_demo-hamolpqqtcgrkdfuzyvqstlfqrtf/Index.noindex/Build/Products",
+      "derivedDataPath" : "/Users/g/Desktop/EECS 183 Project/Final Project Elevators/EECS 183 Final Project: Elevators/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/g/Desktop/EECS 183 Project/Final Project Elevators/EECS 183 Final Project: Elevators/DerivedData/github_demo-hamolpqqtcgrkdfuzyvqstlfqrtf/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/g/Desktop/EECS 183 Project/Final Project Elevators/EECS 183 Final Project: Elevators/DerivedData/github_demo-hamolpqqtcgrkdfuzyvqstlfqrtf/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/g/Desktop/EECS 183 Project/Final Project Elevators/EECS 183 Final Project: Elevators/DerivedData/github_demo-hamolpqqtcgrkdfuzyvqstlfqrtf/Index.noindex/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "INDEX_ARENA_INFO_REGULAR_BUILD_PRODUCTS_DIR" : "/Users/g/Desktop/EECS 183 Project/Final Project Elevators/EECS 183 Final Project: Elevators/DerivedData/github_demo-hamolpqqtcgrkdfuzyvqstlfqrtf/Build/Products",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "utility",
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

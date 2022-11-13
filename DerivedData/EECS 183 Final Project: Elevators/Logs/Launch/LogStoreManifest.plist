@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>6DB6A726-E7A7-43B4-B8D9-F4D5B850E73B</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>8D44AA43-4230-4055-9A47-38EF47194B28</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-EECS 183 Final Project: Elevators-2022.11.08_18-38-12--0500.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>EECS 183 Final Project: Elevators project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>EECS 183 Final Project: Elevators</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run EECS 183 Final Project: Elevators</string>
+			<key>timeStartedRecording</key>
+			<real>689643492.74579501</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run EECS 183 Final Project: Elevators</string>
+			<key>uniqueIdentifier</key>
+			<string>6DB6A726-E7A7-43B4-B8D9-F4D5B850E73B</string>
+		</dict>
+		<key>B4B9AA39-DCC7-4AB5-846D-7F16F902FF7A</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>FD75A63E-E0CD-466C-8158-A9FEC531A3E4</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-EECS 183 Final Project: Elevators-2022.11.08_18-39-16--0500.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>EECS 183 Final Project: Elevators project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>EECS 183 Final Project: Elevators</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run EECS 183 Final Project: Elevators</string>
+			<key>timeStartedRecording</key>
+			<real>689643556.55584002</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run EECS 183 Final Project: Elevators</string>
+			<key>uniqueIdentifier</key>
+			<string>B4B9AA39-DCC7-4AB5-846D-7F16F902FF7A</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

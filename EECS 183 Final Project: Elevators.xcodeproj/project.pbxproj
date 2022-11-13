@@ -1,0 +1,350 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		06569DFA291B29E700124FC3 /* Building.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 06569DDE291B29E700124FC3 /* Building.cpp */; };
+		06569DFB291B29E700124FC3 /* Move.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 06569DE0291B29E700124FC3 /* Move.cpp */; };
+		06569DFC291B29E700124FC3 /* SatisfactionIndex.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 06569DE1291B29E700124FC3 /* SatisfactionIndex.cpp */; };
+		06569DFD291B29E700124FC3 /* test.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 06569DE6291B29E700124FC3 /* test.cpp */; };
+		06569DFE291B29E700124FC3 /* AI.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 06569DE9291B29E700124FC3 /* AI.cpp */; };
+		06569DFF291B29E700124FC3 /* Floor.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 06569DEC291B29E700124FC3 /* Floor.cpp */; };
+		06569E00291B29E700124FC3 /* Game.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 06569DF2291B29E700124FC3 /* Game.cpp */; };
+		06569E01291B29E700124FC3 /* Person.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 06569DF7291B29E700124FC3 /* Person.cpp */; };
+		06569E02291B29E700124FC3 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 06569DF8291B29E700124FC3 /* main.cpp */; };
+		06569E03291B29E700124FC3 /* Elevator.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 06569DF9291B29E700124FC3 /* Elevator.cpp */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		06569D86291B1F4D00124FC3 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		06569D88291B1F4D00124FC3 /* EECS 183 Final Project: Elevators */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "EECS 183 Final Project: Elevators"; sourceTree = BUILT_PRODUCTS_DIR; };
+		06569DDE291B29E700124FC3 /* Building.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = Building.cpp; path = "Final Project Files/Building.cpp"; sourceTree = SOURCE_ROOT; };
+		06569DDF291B29E700124FC3 /* new.in */ = {isa = PBXFileReference; lastKnownFileType = file; name = new.in; path = "Final Project Files/new.in"; sourceTree = SOURCE_ROOT; };
+		06569DE0291B29E700124FC3 /* Move.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = Move.cpp; path = "Final Project Files/Move.cpp"; sourceTree = SOURCE_ROOT; };
+		06569DE1291B29E700124FC3 /* SatisfactionIndex.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = SatisfactionIndex.cpp; path = "Final Project Files/SatisfactionIndex.cpp"; sourceTree = SOURCE_ROOT; };
+		06569DE2291B29E700124FC3 /* SatisfactionIndex.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SatisfactionIndex.h; path = "Final Project Files/SatisfactionIndex.h"; sourceTree = SOURCE_ROOT; };
+		06569DE3291B29E700124FC3 /* Building.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Building.h; path = "Final Project Files/Building.h"; sourceTree = SOURCE_ROOT; };
+		06569DE4291B29E700124FC3 /* BuildingState.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = BuildingState.h; path = "Final Project Files/BuildingState.h"; sourceTree = SOURCE_ROOT; };
+		06569DE5291B29E700124FC3 /* Elevator.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Elevator.h; path = "Final Project Files/Elevator.h"; sourceTree = SOURCE_ROOT; };
+		06569DE6291B29E700124FC3 /* test.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = test.cpp; path = "Final Project Files/test.cpp"; sourceTree = SOURCE_ROOT; };
+		06569DE7291B29E700124FC3 /* save.in */ = {isa = PBXFileReference; lastKnownFileType = file; name = save.in; path = "Final Project Files/save.in"; sourceTree = SOURCE_ROOT; };
+		06569DE8291B29E700124FC3 /* randomGame.in */ = {isa = PBXFileReference; lastKnownFileType = file; name = randomGame.in; path = "Final Project Files/randomGame.in"; sourceTree = SOURCE_ROOT; };
+		06569DE9291B29E700124FC3 /* AI.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = AI.cpp; path = "Final Project Files/AI.cpp"; sourceTree = SOURCE_ROOT; };
+		06569DEA291B29E700124FC3 /* game.in */ = {isa = PBXFileReference; lastKnownFileType = file; name = game.in; path = "Final Project Files/game.in"; sourceTree = SOURCE_ROOT; };
+		06569DEB291B29E700124FC3 /* eveningMellowGame.in */ = {isa = PBXFileReference; lastKnownFileType = file; name = eveningMellowGame.in; path = "Final Project Files/eveningMellowGame.in"; sourceTree = SOURCE_ROOT; };
+		06569DEC291B29E700124FC3 /* Floor.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = Floor.cpp; path = "Final Project Files/Floor.cpp"; sourceTree = SOURCE_ROOT; };
+		06569DED291B29E700124FC3 /* morningPeacefulGame.in */ = {isa = PBXFileReference; lastKnownFileType = file; name = morningPeacefulGame.in; path = "Final Project Files/morningPeacefulGame.in"; sourceTree = SOURCE_ROOT; };
+		06569DEE291B29E700124FC3 /* Utility.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Utility.h; path = "Final Project Files/Utility.h"; sourceTree = SOURCE_ROOT; };
+		06569DEF291B29E700124FC3 /* morningNormalGame.in */ = {isa = PBXFileReference; lastKnownFileType = file; name = morningNormalGame.in; path = "Final Project Files/morningNormalGame.in"; sourceTree = SOURCE_ROOT; };
+		06569DF0291B29E700124FC3 /* Floor.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Floor.h; path = "Final Project Files/Floor.h"; sourceTree = SOURCE_ROOT; };
+		06569DF1291B29E700124FC3 /* Game.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Game.h; path = "Final Project Files/Game.h"; sourceTree = SOURCE_ROOT; };
+		06569DF2291B29E700124FC3 /* Game.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = Game.cpp; path = "Final Project Files/Game.cpp"; sourceTree = SOURCE_ROOT; };
+		06569DF3291B29E700124FC3 /* AI.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AI.h; path = "Final Project Files/AI.h"; sourceTree = SOURCE_ROOT; };
+		06569DF4291B29E700124FC3 /* Person.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Person.h; path = "Final Project Files/Person.h"; sourceTree = SOURCE_ROOT; };
+		06569DF5291B29E700124FC3 /* randomShortGame.in */ = {isa = PBXFileReference; lastKnownFileType = file; name = randomShortGame.in; path = "Final Project Files/randomShortGame.in"; sourceTree = SOURCE_ROOT; };
+		06569DF6291B29E700124FC3 /* Move.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Move.h; path = "Final Project Files/Move.h"; sourceTree = SOURCE_ROOT; };
+		06569DF7291B29E700124FC3 /* Person.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = Person.cpp; path = "Final Project Files/Person.cpp"; sourceTree = SOURCE_ROOT; };
+		06569DF8291B29E700124FC3 /* main.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = main.cpp; path = "Final Project Files/main.cpp"; sourceTree = SOURCE_ROOT; };
+		06569DF9291B29E700124FC3 /* Elevator.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = Elevator.cpp; path = "Final Project Files/Elevator.cpp"; sourceTree = SOURCE_ROOT; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		06569D85291B1F4D00124FC3 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		06569D7F291B1F4D00124FC3 = {
+			isa = PBXGroup;
+			children = (
+				06569D8A291B1F4D00124FC3 /* EECS 183 Final Project: Elevators */,
+				06569D89291B1F4D00124FC3 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		06569D89291B1F4D00124FC3 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				06569D88291B1F4D00124FC3 /* EECS 183 Final Project: Elevators */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		06569D8A291B1F4D00124FC3 /* EECS 183 Final Project: Elevators */ = {
+			isa = PBXGroup;
+			children = (
+				06569DE9291B29E700124FC3 /* AI.cpp */,
+				06569DF3291B29E700124FC3 /* AI.h */,
+				06569DDE291B29E700124FC3 /* Building.cpp */,
+				06569DE3291B29E700124FC3 /* Building.h */,
+				06569DE4291B29E700124FC3 /* BuildingState.h */,
+				06569DF9291B29E700124FC3 /* Elevator.cpp */,
+				06569DE5291B29E700124FC3 /* Elevator.h */,
+				06569DEB291B29E700124FC3 /* eveningMellowGame.in */,
+				06569DEC291B29E700124FC3 /* Floor.cpp */,
+				06569DF0291B29E700124FC3 /* Floor.h */,
+				06569DF2291B29E700124FC3 /* Game.cpp */,
+				06569DF1291B29E700124FC3 /* Game.h */,
+				06569DEA291B29E700124FC3 /* game.in */,
+				06569DF8291B29E700124FC3 /* main.cpp */,
+				06569DEF291B29E700124FC3 /* morningNormalGame.in */,
+				06569DED291B29E700124FC3 /* morningPeacefulGame.in */,
+				06569DE0291B29E700124FC3 /* Move.cpp */,
+				06569DF6291B29E700124FC3 /* Move.h */,
+				06569DDF291B29E700124FC3 /* new.in */,
+				06569DF7291B29E700124FC3 /* Person.cpp */,
+				06569DF4291B29E700124FC3 /* Person.h */,
+				06569DE8291B29E700124FC3 /* randomGame.in */,
+				06569DF5291B29E700124FC3 /* randomShortGame.in */,
+				06569DE1291B29E700124FC3 /* SatisfactionIndex.cpp */,
+				06569DE2291B29E700124FC3 /* SatisfactionIndex.h */,
+				06569DE7291B29E700124FC3 /* save.in */,
+				06569DE6291B29E700124FC3 /* test.cpp */,
+				06569DEE291B29E700124FC3 /* Utility.h */,
+			);
+			path = "EECS 183 Final Project: Elevators";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		06569D87291B1F4D00124FC3 /* EECS 183 Final Project: Elevators */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 06569D8F291B1F4D00124FC3 /* Build configuration list for PBXNativeTarget "EECS 183 Final Project: Elevators" */;
+			buildPhases = (
+				06569D84291B1F4D00124FC3 /* Sources */,
+				06569D85291B1F4D00124FC3 /* Frameworks */,
+				06569D86291B1F4D00124FC3 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "EECS 183 Final Project: Elevators";
+			productName = "EECS 183 Final Project: Elevators";
+			productReference = 06569D88291B1F4D00124FC3 /* EECS 183 Final Project: Elevators */;
+			productType = "com.apple.product-type.tool";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		06569D80291B1F4D00124FC3 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastUpgradeCheck = 1410;
+				TargetAttributes = {
+					06569D87291B1F4D00124FC3 = {
+						CreatedOnToolsVersion = 14.1;
+					};
+				};
+			};
+			buildConfigurationList = 06569D83291B1F4D00124FC3 /* Build configuration list for PBXProject "EECS 183 Final Project: Elevators" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 06569D7F291B1F4D00124FC3;
+			productRefGroup = 06569D89291B1F4D00124FC3 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				06569D87291B1F4D00124FC3 /* EECS 183 Final Project: Elevators */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		06569D84291B1F4D00124FC3 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				06569DFE291B29E700124FC3 /* AI.cpp in Sources */,
+				06569DFC291B29E700124FC3 /* SatisfactionIndex.cpp in Sources */,
+				06569E02291B29E700124FC3 /* main.cpp in Sources */,
+				06569E03291B29E700124FC3 /* Elevator.cpp in Sources */,
+				06569E01291B29E700124FC3 /* Person.cpp in Sources */,
+				06569DFD291B29E700124FC3 /* test.cpp in Sources */,
+				06569DFB291B29E700124FC3 /* Move.cpp in Sources */,
+				06569DFF291B29E700124FC3 /* Floor.cpp in Sources */,
+				06569DFA291B29E700124FC3 /* Building.cpp in Sources */,
+				06569E00291B29E700124FC3 /* Game.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		06569D8D291B1F4D00124FC3 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 12.6;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		06569D8E291B1F4D00124FC3 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 12.6;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		06569D90291B1F4D00124FC3 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		06569D91291B1F4D00124FC3 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		06569D83291B1F4D00124FC3 /* Build configuration list for PBXProject "EECS 183 Final Project: Elevators" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				06569D8D291B1F4D00124FC3 /* Debug */,
+				06569D8E291B1F4D00124FC3 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		06569D8F291B1F4D00124FC3 /* Build configuration list for PBXNativeTarget "EECS 183 Final Project: Elevators" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				06569D90291B1F4D00124FC3 /* Debug */,
+				06569D91291B1F4D00124FC3 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 06569D80291B1F4D00124FC3 /* Project object */;
+}

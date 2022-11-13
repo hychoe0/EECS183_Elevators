@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>8D44AA43-4230-4055-9A47-38EF47194B28</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8D44AA43-4230-4055-9A47-38EF47194B28.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>EECS 183 Final Project: Elevators project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>EECS 183 Final Project: Elevators</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build EECS 183 Final Project: Elevators</string>
+			<key>timeStartedRecording</key>
+			<real>689643492.74669898</real>
+			<key>timeStoppedRecording</key>
+			<real>689643493.44193494</real>
+			<key>title</key>
+			<string>Build EECS 183 Final Project: Elevators</string>
+			<key>uniqueIdentifier</key>
+			<string>8D44AA43-4230-4055-9A47-38EF47194B28</string>
+		</dict>
+		<key>FD75A63E-E0CD-466C-8158-A9FEC531A3E4</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>FD75A63E-E0CD-466C-8158-A9FEC531A3E4.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>EECS 183 Final Project: Elevators project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>EECS 183 Final Project: Elevators</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build EECS 183 Final Project: Elevators</string>
+			<key>timeStartedRecording</key>
+			<real>689643556.55594897</real>
+			<key>timeStoppedRecording</key>
+			<real>689643556.62865901</real>
+			<key>title</key>
+			<string>Build EECS 183 Final Project: Elevators</string>
+			<key>uniqueIdentifier</key>
+			<string>FD75A63E-E0CD-466C-8158-A9FEC531A3E4</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

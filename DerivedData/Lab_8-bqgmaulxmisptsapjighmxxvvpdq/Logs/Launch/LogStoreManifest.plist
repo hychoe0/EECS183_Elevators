@@ -1,0 +1,731 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>0ECBE662-42CA-4101-ABE7-9923B9C68106</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>65EEE014-995A-4A03-BFF7-EF09CFAC799B</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-Lab 8-2022.11.08_20-32-59--0500.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Lab 8 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Lab 8</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Lab 8</string>
+			<key>timeStartedRecording</key>
+			<real>689650379.759835</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run Lab 8</string>
+			<key>uniqueIdentifier</key>
+			<string>0ECBE662-42CA-4101-ABE7-9923B9C68106</string>
+		</dict>
+		<key>171C6A1F-E351-40EC-81BD-FDA8F21F2B1D</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>FDAA8873-BFF6-484E-B019-5CC92E384FDF</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-Lab 8-2022.11.08_21-08-33--0500.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Lab 8 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Lab 8</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Lab 8</string>
+			<key>timeStartedRecording</key>
+			<real>689652513.15922201</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run Lab 8</string>
+			<key>uniqueIdentifier</key>
+			<string>171C6A1F-E351-40EC-81BD-FDA8F21F2B1D</string>
+		</dict>
+		<key>17D704B0-D1CB-4024-B803-853ACCA71DE5</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>E96B2004-0E82-41AA-B48B-62708EAC30F8</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-Lab 8-2022.11.08_20-37-30--0500.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Lab 8 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Lab 8</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Lab 8</string>
+			<key>timeStartedRecording</key>
+			<real>689650650.95676994</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run Lab 8</string>
+			<key>uniqueIdentifier</key>
+			<string>17D704B0-D1CB-4024-B803-853ACCA71DE5</string>
+		</dict>
+		<key>1CBAFCF7-5394-4EDC-91FD-59D18CF2614D</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>732270A8-069A-4677-81D1-D25BFB4A0ECC</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-Lab 8-2022.11.08_20-33-11--0500.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Lab 8 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Lab 8</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Lab 8</string>
+			<key>timeStartedRecording</key>
+			<real>689650391.40331101</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run Lab 8</string>
+			<key>uniqueIdentifier</key>
+			<string>1CBAFCF7-5394-4EDC-91FD-59D18CF2614D</string>
+		</dict>
+		<key>1F1ECD44-5E2D-41A7-B08A-8206DB317CE1</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>6259248A-3F3A-4841-9FDD-83729E49923B</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-Lab 8-2022.11.08_21-03-39--0500.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Lab 8 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Lab 8</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Lab 8</string>
+			<key>timeStartedRecording</key>
+			<real>689652219.360484</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run Lab 8</string>
+			<key>uniqueIdentifier</key>
+			<string>1F1ECD44-5E2D-41A7-B08A-8206DB317CE1</string>
+		</dict>
+		<key>212764A1-9096-4A5B-9EED-98D8A0C14077</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>22F07BB9-CB65-4677-BEBE-DBF01B913256</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-Lab 8-2022.11.08_21-03-15--0500.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Lab 8 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Lab 8</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Lab 8</string>
+			<key>timeStartedRecording</key>
+			<real>689652195.88655996</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run Lab 8</string>
+			<key>uniqueIdentifier</key>
+			<string>212764A1-9096-4A5B-9EED-98D8A0C14077</string>
+		</dict>
+		<key>3D1E5678-A574-4C42-B182-F67D62523F76</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>5F4415D8-02FD-4A8E-B2DA-5C971D1E51FB</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-Lab 8-2022.11.08_20-35-40--0500.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Lab 8 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Lab 8</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Lab 8</string>
+			<key>timeStartedRecording</key>
+			<real>689650540.78346801</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run Lab 8</string>
+			<key>uniqueIdentifier</key>
+			<string>3D1E5678-A574-4C42-B182-F67D62523F76</string>
+		</dict>
+		<key>4101A89A-0822-438A-A373-9ED327AA866D</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>445E90CE-7024-4E9B-A1F9-CD798D2E9612</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-Lab 8-2022.11.08_20-44-43--0500.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Lab 8 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Lab 8</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Lab 8</string>
+			<key>timeStartedRecording</key>
+			<real>689651083.49188197</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run Lab 8</string>
+			<key>uniqueIdentifier</key>
+			<string>4101A89A-0822-438A-A373-9ED327AA866D</string>
+		</dict>
+		<key>49CFFEF4-25DF-411E-AD3F-CAEF6B3399F2</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>A901F131-2FA5-4300-8C22-E35A7F544C87</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-Lab 8-2022.11.08_20-46-09--0500.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Lab 8 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Lab 8</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Lab 8</string>
+			<key>timeStartedRecording</key>
+			<real>689651169.451195</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run Lab 8</string>
+			<key>uniqueIdentifier</key>
+			<string>49CFFEF4-25DF-411E-AD3F-CAEF6B3399F2</string>
+		</dict>
+		<key>7FD1D509-A265-43B3-A72E-435972DF8FC1</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>C4A421DA-1DA9-4114-928C-98461496AA2C</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-Lab 8-2022.11.08_20-47-00--0500.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Lab 8 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Lab 8</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Lab 8</string>
+			<key>timeStartedRecording</key>
+			<real>689651220.55938005</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run Lab 8</string>
+			<key>uniqueIdentifier</key>
+			<string>7FD1D509-A265-43B3-A72E-435972DF8FC1</string>
+		</dict>
+		<key>81189482-1100-4D71-8C51-21E200825D27</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>A4B47D04-9152-408F-BA10-D1E4F8E41D6D</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-Lab 8-2022.11.08_20-30-59--0500.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Lab 8 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Lab 8</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Lab 8</string>
+			<key>timeStartedRecording</key>
+			<real>689650259.48268199</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run Lab 8</string>
+			<key>uniqueIdentifier</key>
+			<string>81189482-1100-4D71-8C51-21E200825D27</string>
+		</dict>
+		<key>8CD71602-3CCD-4769-9DA4-521B8EFDA5B4</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>51D7ADBB-FED3-4A79-B34F-339AF895482F</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-Lab 8-2022.11.08_20-45-21--0500.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Lab 8 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Lab 8</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Lab 8</string>
+			<key>timeStartedRecording</key>
+			<real>689651121.07987499</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run Lab 8</string>
+			<key>uniqueIdentifier</key>
+			<string>8CD71602-3CCD-4769-9DA4-521B8EFDA5B4</string>
+		</dict>
+		<key>A379081D-D0FE-46EA-B015-B3CB0FB63F80</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>2922BD82-8AC1-4864-A876-1E1239FC100F</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-Lab 8-2022.11.08_21-07-09--0500.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Lab 8 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Lab 8</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Lab 8</string>
+			<key>timeStartedRecording</key>
+			<real>689652429.72146797</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run Lab 8</string>
+			<key>uniqueIdentifier</key>
+			<string>A379081D-D0FE-46EA-B015-B3CB0FB63F80</string>
+		</dict>
+		<key>AB1C5561-0D90-4E04-8F9B-73FCB861D560</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>C434B35E-3E40-4ADF-94F8-CD1EE8D4BD3B</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-Lab 8-2022.11.08_20-53-31--0500.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Lab 8 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Lab 8</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Lab 8</string>
+			<key>timeStartedRecording</key>
+			<real>689651611.86692798</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run Lab 8</string>
+			<key>uniqueIdentifier</key>
+			<string>AB1C5561-0D90-4E04-8F9B-73FCB861D560</string>
+		</dict>
+		<key>EA8DCD10-F529-4905-95A6-D803820C751D</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>22705DE7-7A3B-4300-96F7-CF85E345CAC9</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-Lab 8-2022.11.08_20-44-57--0500.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Lab 8 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Lab 8</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Lab 8</string>
+			<key>timeStartedRecording</key>
+			<real>689651097.90413499</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run Lab 8</string>
+			<key>uniqueIdentifier</key>
+			<string>EA8DCD10-F529-4905-95A6-D803820C751D</string>
+		</dict>
+		<key>FB616225-8CBD-44C6-B0EB-7E4340A7DA2B</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>B3BF391C-F848-4211-BAF2-EA3E3EBA7A57</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-Lab 8-2022.11.08_20-42-02--0500.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Lab 8 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Lab 8</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Lab 8</string>
+			<key>timeStartedRecording</key>
+			<real>689650922.42189896</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run Lab 8</string>
+			<key>uniqueIdentifier</key>
+			<string>FB616225-8CBD-44C6-B0EB-7E4340A7DA2B</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
