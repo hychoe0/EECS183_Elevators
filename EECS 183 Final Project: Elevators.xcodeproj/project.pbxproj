@@ -7,12 +7,12 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		06245AEA29273937001024AC /* Floor.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 06245AE929273937001024AC /* Floor.cpp */; };
 		06569DFA291B29E700124FC3 /* Building.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 06569DDE291B29E700124FC3 /* Building.cpp */; };
 		06569DFB291B29E700124FC3 /* Move.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 06569DE0291B29E700124FC3 /* Move.cpp */; };
 		06569DFC291B29E700124FC3 /* SatisfactionIndex.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 06569DE1291B29E700124FC3 /* SatisfactionIndex.cpp */; };
 		06569DFD291B29E700124FC3 /* test.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 06569DE6291B29E700124FC3 /* test.cpp */; };
 		06569DFE291B29E700124FC3 /* AI.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 06569DE9291B29E700124FC3 /* AI.cpp */; };
-		06569DFF291B29E700124FC3 /* Floor.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 06569DEC291B29E700124FC3 /* Floor.cpp */; };
 		06569E00291B29E700124FC3 /* Game.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 06569DF2291B29E700124FC3 /* Game.cpp */; };
 		06569E01291B29E700124FC3 /* Person.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 06569DF7291B29E700124FC3 /* Person.cpp */; };
 		06569E02291B29E700124FC3 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 06569DF8291B29E700124FC3 /* main.cpp */; };
@@ -32,6 +32,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		06245AE929273937001024AC /* Floor.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = Floor.cpp; path = ../../../../../.Trash/Floor.cpp; sourceTree = "<group>"; };
 		06569D88291B1F4D00124FC3 /* EECS 183 Final Project: Elevators */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "EECS 183 Final Project: Elevators"; sourceTree = BUILT_PRODUCTS_DIR; };
 		06569DDE291B29E700124FC3 /* Building.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = Building.cpp; path = "Final Project Files/Building.cpp"; sourceTree = SOURCE_ROOT; };
 		06569DDF291B29E700124FC3 /* new.in */ = {isa = PBXFileReference; lastKnownFileType = text; name = new.in; path = "Final Project Files/new.in"; sourceTree = SOURCE_ROOT; };
@@ -47,7 +48,6 @@
 		06569DE9291B29E700124FC3 /* AI.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = AI.cpp; path = "Final Project Files/AI.cpp"; sourceTree = SOURCE_ROOT; };
 		06569DEA291B29E700124FC3 /* game.in */ = {isa = PBXFileReference; lastKnownFileType = text; name = game.in; path = "Final Project Files/game.in"; sourceTree = SOURCE_ROOT; };
 		06569DEB291B29E700124FC3 /* eveningMellowGame.in */ = {isa = PBXFileReference; lastKnownFileType = text; name = eveningMellowGame.in; path = "Final Project Files/eveningMellowGame.in"; sourceTree = SOURCE_ROOT; };
-		06569DEC291B29E700124FC3 /* Floor.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = Floor.cpp; path = "Final Project Files/Floor.cpp"; sourceTree = SOURCE_ROOT; };
 		06569DED291B29E700124FC3 /* morningPeacefulGame.in */ = {isa = PBXFileReference; lastKnownFileType = text; name = morningPeacefulGame.in; path = "Final Project Files/morningPeacefulGame.in"; sourceTree = SOURCE_ROOT; };
 		06569DEE291B29E700124FC3 /* Utility.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Utility.h; path = "Final Project Files/Utility.h"; sourceTree = SOURCE_ROOT; };
 		06569DEF291B29E700124FC3 /* morningNormalGame.in */ = {isa = PBXFileReference; lastKnownFileType = text; name = morningNormalGame.in; path = "Final Project Files/morningNormalGame.in"; sourceTree = SOURCE_ROOT; };
@@ -101,7 +101,7 @@
 				06569DF9291B29E700124FC3 /* Elevator.cpp */,
 				06569DE5291B29E700124FC3 /* Elevator.h */,
 				06569DEB291B29E700124FC3 /* eveningMellowGame.in */,
-				06569DEC291B29E700124FC3 /* Floor.cpp */,
+				06245AE929273937001024AC /* Floor.cpp */,
 				06569DF0291B29E700124FC3 /* Floor.h */,
 				06569DF2291B29E700124FC3 /* Game.cpp */,
 				06569DF1291B29E700124FC3 /* Game.h */,
@@ -187,9 +187,9 @@
 				06569E02291B29E700124FC3 /* main.cpp in Sources */,
 				06569E03291B29E700124FC3 /* Elevator.cpp in Sources */,
 				06569E01291B29E700124FC3 /* Person.cpp in Sources */,
+				06245AEA29273937001024AC /* Floor.cpp in Sources */,
 				06569DFD291B29E700124FC3 /* test.cpp in Sources */,
 				06569DFB291B29E700124FC3 /* Move.cpp in Sources */,
-				06569DFF291B29E700124FC3 /* Floor.cpp in Sources */,
 				06569DFA291B29E700124FC3 /* Building.cpp in Sources */,
 				06569E00291B29E700124FC3 /* Game.cpp in Sources */,
 			);

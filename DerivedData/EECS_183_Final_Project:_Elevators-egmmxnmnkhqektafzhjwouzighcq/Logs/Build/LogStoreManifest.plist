@@ -6,7 +6,7 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>480E4DE1-2928-4727-852B-16A08E20FFAE</key>
+		<key>748FBF86-4E44-428C-BEF1-F2645E44EAAB</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -15,7 +15,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>480E4DE1-2928-4727-852B-16A08E20FFAE.xcactivitylog</string>
+			<string>748FBF86-4E44-428C-BEF1-F2645E44EAAB.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -32,47 +32,13 @@
 			<key>signature</key>
 			<string>Build EECS 183 Final Project: Elevators</string>
 			<key>timeStartedRecording</key>
-			<real>689814903.26133299</real>
+			<real>691988359.65613699</real>
 			<key>timeStoppedRecording</key>
-			<real>689814904.07089996</real>
+			<real>691988360.09495401</real>
 			<key>title</key>
 			<string>Build EECS 183 Final Project: Elevators</string>
 			<key>uniqueIdentifier</key>
-			<string>480E4DE1-2928-4727-852B-16A08E20FFAE</string>
-		</dict>
-		<key>FD709DD5-C432-481B-85FC-2C05733E7C55</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>FD709DD5-C432-481B-85FC-2C05733E7C55.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>EECS 183 Final Project: Elevators project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>EECS 183 Final Project: Elevators</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build EECS 183 Final Project: Elevators</string>
-			<key>timeStartedRecording</key>
-			<real>690154988.50927603</real>
-			<key>timeStoppedRecording</key>
-			<real>690154989.332937</real>
-			<key>title</key>
-			<string>Build EECS 183 Final Project: Elevators</string>
-			<key>uniqueIdentifier</key>
-			<string>FD709DD5-C432-481B-85FC-2C05733E7C55</string>
+			<string>748FBF86-4E44-428C-BEF1-F2645E44EAAB</string>
 		</dict>
 	</dict>
 </dict>

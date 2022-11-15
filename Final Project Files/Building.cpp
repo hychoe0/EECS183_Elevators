@@ -4,8 +4,8 @@
  * Building.cpp
  * Project UID 28eb18c2c1ce490aada441e65559efdd
  *
- * <#Names#>
- * <#Uniqnames#>
+ * Juana, Gerrard, Priya, Meera
+ * juani, hychoe, priyasha, mmanek
  *
  * Final Project - Elevators
  */
@@ -14,20 +14,59 @@
 
 using namespace std;
 
+
 void Building::spawnPerson(Person newPerson){
-    //TODO: Implement spawnPerson
-}
+    // adds a new person to a floor in a building
+floors [newPerson.getCurrentFloor()] .addPerson (newPerson, newPerson.getTargetFloor() - newPerson.getCurrentFloor());
+    
+            
+    }
+
+//  Requires: move is a valid move
+//* Modifies: The building member variables affected by the move
+//* Effects: Applies the move to the building:
+//*          * If the move is a Pass Move, nothing happens
+//*          * If the move is a Pickup Move, copies the list of people to
+//*            pickup into an array, and calls removePeople() on the
+//*            appropriate floor
+//*          * For both Pickup Moves and Service Moves, the appropriate
+//*            elevator should be sent to service the targetFloor of the move
+//*/
+//void update(Move move);
+
 
 void Building::update(Move move){
-    //TODO: Implement update
-}
+    int temp [MAX_PEOPLE_PER_FLOOR];
+    if (move.isPassMove ()) {
+        return;
+    }
+    if (!move.isPassMove() && !move.isQuitMove () && !move.isSaveMove ()) {
+        if (move.isPickupMove())  {
+            move.copyListOfPeopleToPickup(temp);
+            floors[elevators [move.getElevatorId()].getCurrentFloor()].removePeople(temp ,move.getNumPeopleToPickup());
+        elevators[move.getElevatorId()].serviceRequest(move.getTargetFloor());
 
+        }
+        
+        else {
+            elevators[move.getElevatorId()].serviceRequest(move.getTargetFloor());
+        }
+    }
+    
+}
 int Building::tick(Move move){
-    //TODO: Implement tick
-
-    //returning 0 to prevent compilation error
-    return 0;
-}
+    int numExploded = 0;
+    time ++;
+    update (move);
+    for (int i = 0; i < NUM_ELEVATORS; i++) {
+        elevators [i].tick(time);
+    }
+    for (int j = 0; j < NUM_FLOORS; j++) {
+        numExploded += floors[j].tick(time);
+    }
+           return numExploded;
+            
+    }
 
 //////////////////////////////////////////////////////
 ////// DO NOT MODIFY ANY CODE BENEATH THIS LINE //////

@@ -20,38 +20,109 @@ using namespace std;
 // Stub for playGame for Core, which plays random games
 // You *must* revise this function according to the RME and spec
 void Game::playGame(bool isAIModeIn, ifstream& gameFile) {
-    std::mt19937 gen(1);
-    std::uniform_int_distribution<> floorDist(0, 9);
-    std::uniform_int_distribution<> angerDist(0, 3);
-
+    // if game input file is not open, exits with status 1
+    // sets isAIMode
+    // prints game start prompt
+    if (!gameFile.is_open()) {
+        exit(1);
+    }
     isAIMode = isAIModeIn;
     printGameStartPrompt();
     initGame(gameFile);
+    
+    // else
+    string personString;
+    
+    // While there is another line in gameFile:
+    while (gameFile >> personString) {
+        
+        // if event is NOT happening on current turn
+            Person p(personString);
+            while (building.getTime() < p.getTurn()) {
+                building.prettyPrintBuilding(cout);
+                satisfactionIndex.printSatisfaction(cout, false);
+                checkForGameEnd();
 
-    while (true) {
-        int src = floorDist(gen);
-        int dst = floorDist(gen);
-        if (src != dst) {
-            std::stringstream ss;
-            ss << "0f" << src << "t" << dst << "a" << angerDist(gen);
-            Person p(ss.str());
+                Move nextMove = getMove();
+                update(nextMove);
+            }
             building.spawnPerson(p);
         }
-
-        building.prettyPrintBuilding(cout);
-        satisfactionIndex.printSatisfaction(cout, false);
-        checkForGameEnd();
-
-        Move nextMove = getMove();
-        update(nextMove);
-    }
+        
+        // if the event is happening on current turn
+            while (true) {
+                building.prettyPrintBuilding(cout);
+                satisfactionIndex.printSatisfaction(cout, false);
+                checkForGameEnd();
+                
+                Move nextMove = getMove();
+                update(nextMove);
+        }
 }
 
 // Stub for isValidPickupList for Core
 // You *must* revise this function according to the RME and spec
 bool Game::isValidPickupList(const string& pickupList, const int pickupFloorNum) const {
+
+int num = 0;
+int up = 0;
+int down = 0;
+bool hasNoDuplicates = true;
+bool hasNoNegatives = true;
+bool lessThanCapacity = true;
+bool noMoreThanMax = true;
+bool directionIsSame = true;
+Floor f = building.getFloorByFloorNum(pickupFloorNum);
+
+// making sure all numbers are non-negative
+for (int i = 0; i < pickupList.length(); ++i) {
+    if (pickupList.at(i) == '-') {
+        hasNoNegatives = false;
+    }
+}
+
+    //The length of the pickupList is less than or equal to the capacity of an elevator
+    if (pickupList.length() > ELEVATOR_CAPACITY) {
+        lessThanCapacity = false;
+    }
+    
+    
+    for (int i = 0; i < pickupList.length(); ++i) {
+        num = pickupList.at(i) - '0';
+        //The maximum value pointed to by an index of pickupList must be strictly
+        //less than the number of people on the floor pointed to by pickupFloorNum
+        if (num >= f.getNumPeople()) {
+            noMoreThanMax = false;
+        }
+        if (f.getPersonByIndex(num).getTargetFloor() > pickupFloorNum) {
+            up++;
+        }
+        else if (f.getPersonByIndex(num).getTargetFloor() < pickupFloorNum) {
+            down++;
+        }
+        
+        //Each person represented by an index in pickupList must be going in the same direction relative to pickupFloorNum
+        if (up > 0 && down > 0) {
+            directionIsSame = false;
+        }
+        
+        //checking for duplicate indices
+        for (int j = 0; j < pickupList.length(); ++j) {
+            if (pickupList.at(i) == pickupList.at(j) && i != j) {
+                hasNoDuplicates = false;
+            }
+        }
+    }
+
+    if (hasNoNegatives && hasNoDuplicates && noMoreThanMax
+    && directionIsSame && lessThanCapacity) {
     return true;
 }
+else {
+    return false;
+}
+}
+
 
 //////////////////////////////////////////////////////
 ////// DO NOT MODIFY ANY CODE BENEATH THIS LINE //////

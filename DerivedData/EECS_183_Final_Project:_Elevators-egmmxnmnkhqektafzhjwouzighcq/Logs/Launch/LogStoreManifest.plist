@@ -6,10 +6,10 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>634F2DDE-6D04-4F76-94AA-A0E758D63FCA</key>
+		<key>EFBAD826-CA66-4A3F-8BD6-499E886D9B38</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>480E4DE1-2928-4727-852B-16A08E20FFAE</string>
+			<string>748FBF86-4E44-428C-BEF1-F2645E44EAAB</string>
 			<key>auxiliaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
@@ -22,7 +22,7 @@
 			<key>domainType</key>
 			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
 			<key>fileName</key>
-			<string>Run-EECS 183 Final Project: Elevators-2022.11.10_18-15-03--0500.xcresult</string>
+			<string>Run-EECS 183 Final Project: Elevators-2022.12.05_21-59-19--0500.xcresult</string>
 			<key>hasAuxiliaryLog</key>
 			<true/>
 			<key>hasConsoleLog</key>
@@ -43,58 +43,13 @@
 			<key>signature</key>
 			<string>Run EECS 183 Final Project: Elevators</string>
 			<key>timeStartedRecording</key>
-			<real>689814903.26127195</real>
+			<real>691988359.65600395</real>
 			<key>timeStoppedRecording</key>
 			<real>0.0</real>
 			<key>title</key>
 			<string>Run EECS 183 Final Project: Elevators</string>
 			<key>uniqueIdentifier</key>
-			<string>634F2DDE-6D04-4F76-94AA-A0E758D63FCA</string>
-		</dict>
-		<key>B6F1F80A-C0B9-437D-AC4C-A801F51C2108</key>
-		<dict>
-			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>FD709DD5-C432-481B-85FC-2C05733E7C55</string>
-			<key>auxiliaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>className</key>
-			<string>IDESchemeActionsInvocationRecord</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
-			<key>fileName</key>
-			<string>Run-EECS 183 Final Project: Elevators-2022.11.14_16-43-08--0500.xcresult</string>
-			<key>hasAuxiliaryLog</key>
-			<true/>
-			<key>hasConsoleLog</key>
-			<true/>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>EECS 183 Final Project: Elevators project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>EECS 183 Final Project: Elevators</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run EECS 183 Final Project: Elevators</string>
-			<key>timeStartedRecording</key>
-			<real>690154988.50825095</real>
-			<key>timeStoppedRecording</key>
-			<real>0.0</real>
-			<key>title</key>
-			<string>Run EECS 183 Final Project: Elevators</string>
-			<key>uniqueIdentifier</key>
-			<string>B6F1F80A-C0B9-437D-AC4C-A801F51C2108</string>
+			<string>EFBAD826-CA66-4A3F-8BD6-499E886D9B38</string>
 		</dict>
 	</dict>
 </dict>
