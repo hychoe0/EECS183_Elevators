@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 56;
+	objectVersion = 54;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -34,7 +34,7 @@
 /* Begin PBXFileReference section */
 		06569D88291B1F4D00124FC3 /* EECS 183 Final Project: Elevators */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "EECS 183 Final Project: Elevators"; sourceTree = BUILT_PRODUCTS_DIR; };
 		06569DDE291B29E700124FC3 /* Building.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = Building.cpp; path = "Final Project Files/Building.cpp"; sourceTree = SOURCE_ROOT; };
-		06569DDF291B29E700124FC3 /* new.in */ = {isa = PBXFileReference; lastKnownFileType = file; name = new.in; path = "Final Project Files/new.in"; sourceTree = SOURCE_ROOT; };
+		06569DDF291B29E700124FC3 /* new.in */ = {isa = PBXFileReference; lastKnownFileType = text; name = new.in; path = "Final Project Files/new.in"; sourceTree = SOURCE_ROOT; };
 		06569DE0291B29E700124FC3 /* Move.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = Move.cpp; path = "Final Project Files/Move.cpp"; sourceTree = SOURCE_ROOT; };
 		06569DE1291B29E700124FC3 /* SatisfactionIndex.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = SatisfactionIndex.cpp; path = "Final Project Files/SatisfactionIndex.cpp"; sourceTree = SOURCE_ROOT; };
 		06569DE2291B29E700124FC3 /* SatisfactionIndex.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SatisfactionIndex.h; path = "Final Project Files/SatisfactionIndex.h"; sourceTree = SOURCE_ROOT; };
@@ -42,21 +42,21 @@
 		06569DE4291B29E700124FC3 /* BuildingState.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = BuildingState.h; path = "Final Project Files/BuildingState.h"; sourceTree = SOURCE_ROOT; };
 		06569DE5291B29E700124FC3 /* Elevator.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Elevator.h; path = "Final Project Files/Elevator.h"; sourceTree = SOURCE_ROOT; };
 		06569DE6291B29E700124FC3 /* test.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = test.cpp; path = "Final Project Files/test.cpp"; sourceTree = SOURCE_ROOT; };
-		06569DE7291B29E700124FC3 /* save.in */ = {isa = PBXFileReference; lastKnownFileType = file; name = save.in; path = "Final Project Files/save.in"; sourceTree = SOURCE_ROOT; };
-		06569DE8291B29E700124FC3 /* randomGame.in */ = {isa = PBXFileReference; lastKnownFileType = file; name = randomGame.in; path = "Final Project Files/randomGame.in"; sourceTree = SOURCE_ROOT; };
+		06569DE7291B29E700124FC3 /* save.in */ = {isa = PBXFileReference; lastKnownFileType = text; name = save.in; path = "Final Project Files/save.in"; sourceTree = SOURCE_ROOT; };
+		06569DE8291B29E700124FC3 /* randomGame.in */ = {isa = PBXFileReference; lastKnownFileType = text; name = randomGame.in; path = "Final Project Files/randomGame.in"; sourceTree = SOURCE_ROOT; };
 		06569DE9291B29E700124FC3 /* AI.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = AI.cpp; path = "Final Project Files/AI.cpp"; sourceTree = SOURCE_ROOT; };
-		06569DEA291B29E700124FC3 /* game.in */ = {isa = PBXFileReference; lastKnownFileType = file; name = game.in; path = "Final Project Files/game.in"; sourceTree = SOURCE_ROOT; };
-		06569DEB291B29E700124FC3 /* eveningMellowGame.in */ = {isa = PBXFileReference; lastKnownFileType = file; name = eveningMellowGame.in; path = "Final Project Files/eveningMellowGame.in"; sourceTree = SOURCE_ROOT; };
+		06569DEA291B29E700124FC3 /* game.in */ = {isa = PBXFileReference; lastKnownFileType = text; name = game.in; path = "Final Project Files/game.in"; sourceTree = SOURCE_ROOT; };
+		06569DEB291B29E700124FC3 /* eveningMellowGame.in */ = {isa = PBXFileReference; lastKnownFileType = text; name = eveningMellowGame.in; path = "Final Project Files/eveningMellowGame.in"; sourceTree = SOURCE_ROOT; };
 		06569DEC291B29E700124FC3 /* Floor.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = Floor.cpp; path = "Final Project Files/Floor.cpp"; sourceTree = SOURCE_ROOT; };
-		06569DED291B29E700124FC3 /* morningPeacefulGame.in */ = {isa = PBXFileReference; lastKnownFileType = file; name = morningPeacefulGame.in; path = "Final Project Files/morningPeacefulGame.in"; sourceTree = SOURCE_ROOT; };
+		06569DED291B29E700124FC3 /* morningPeacefulGame.in */ = {isa = PBXFileReference; lastKnownFileType = text; name = morningPeacefulGame.in; path = "Final Project Files/morningPeacefulGame.in"; sourceTree = SOURCE_ROOT; };
 		06569DEE291B29E700124FC3 /* Utility.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Utility.h; path = "Final Project Files/Utility.h"; sourceTree = SOURCE_ROOT; };
-		06569DEF291B29E700124FC3 /* morningNormalGame.in */ = {isa = PBXFileReference; lastKnownFileType = file; name = morningNormalGame.in; path = "Final Project Files/morningNormalGame.in"; sourceTree = SOURCE_ROOT; };
+		06569DEF291B29E700124FC3 /* morningNormalGame.in */ = {isa = PBXFileReference; lastKnownFileType = text; name = morningNormalGame.in; path = "Final Project Files/morningNormalGame.in"; sourceTree = SOURCE_ROOT; };
 		06569DF0291B29E700124FC3 /* Floor.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Floor.h; path = "Final Project Files/Floor.h"; sourceTree = SOURCE_ROOT; };
 		06569DF1291B29E700124FC3 /* Game.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Game.h; path = "Final Project Files/Game.h"; sourceTree = SOURCE_ROOT; };
 		06569DF2291B29E700124FC3 /* Game.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = Game.cpp; path = "Final Project Files/Game.cpp"; sourceTree = SOURCE_ROOT; };
 		06569DF3291B29E700124FC3 /* AI.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AI.h; path = "Final Project Files/AI.h"; sourceTree = SOURCE_ROOT; };
 		06569DF4291B29E700124FC3 /* Person.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Person.h; path = "Final Project Files/Person.h"; sourceTree = SOURCE_ROOT; };
-		06569DF5291B29E700124FC3 /* randomShortGame.in */ = {isa = PBXFileReference; lastKnownFileType = file; name = randomShortGame.in; path = "Final Project Files/randomShortGame.in"; sourceTree = SOURCE_ROOT; };
+		06569DF5291B29E700124FC3 /* randomShortGame.in */ = {isa = PBXFileReference; lastKnownFileType = text; name = randomShortGame.in; path = "Final Project Files/randomShortGame.in"; sourceTree = SOURCE_ROOT; };
 		06569DF6291B29E700124FC3 /* Move.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Move.h; path = "Final Project Files/Move.h"; sourceTree = SOURCE_ROOT; };
 		06569DF7291B29E700124FC3 /* Person.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = Person.cpp; path = "Final Project Files/Person.cpp"; sourceTree = SOURCE_ROOT; };
 		06569DF8291B29E700124FC3 /* main.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = main.cpp; path = "Final Project Files/main.cpp"; sourceTree = SOURCE_ROOT; };
@@ -160,7 +160,7 @@
 				};
 			};
 			buildConfigurationList = 06569D83291B1F4D00124FC3 /* Build configuration list for PBXProject "EECS 183 Final Project: Elevators" */;
-			compatibilityVersion = "Xcode 14.0";
+			compatibilityVersion = "Xcode 12.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
